@@ -1,0 +1,24 @@
+User Story 1:
+As a vanilla git power-user that has never seen GiggleGit before, I want to 
+have access to a cheat sheet that maps git commands to GiggleGit.
+
+User Story 2:
+As a team lead onboarding an experienced GiggleGit user, I want to 
+monitor their progress through the onboarding process.
+
+User Story 3:
+As a new user, I want to understand how merges are managed using memes.
+    Task: Create a tutorial to learn GiggleGit's meme based merge resolution system
+        
+        Ticket 1: Create a step by step guide for resolving merge conflicts with memes
+            The guide should cover top to bottom from merge commands, how and why, interface, best practices 
+        
+        Ticket 2: A walkthrough resolving conflicts using merge
+            Walk the user through creating a repository with intentional conflicts 
+            then using the meme based system to resolve the conflict step by step 
+
+This is not a user story because it lacks a clear goal tied to the user's experience.
+It is a functional requirement. 
+
+
+
